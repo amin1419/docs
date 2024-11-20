@@ -1,0 +1,1 @@
+It's possible that {% data variables.product.prodname_copilot_short %} may use semantic information from an excluded file if the information is provided by the IDE in a non-excluded file. Examples of such content include type information and hover-over definitions for symbols used in code.
